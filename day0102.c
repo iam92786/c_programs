@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//S=storage S=Sign S=Size
+//SSS = storage Sign Size
 
 int main (void)
 {
