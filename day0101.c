@@ -1,8 +1,8 @@
 #include<stdio.h>
 
-
+//first hello world programme
 int main (void)
 {
-		printf("Hello World\n");
+		printf("Wellcome in Innominds\n");
 		return 0;
 }
