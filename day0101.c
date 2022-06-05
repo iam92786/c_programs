@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-//first hello world programme in c language
-//try to demonstrate Globale Storage class in c language
+//
+//AIM : Try to demonstrate Globale Storage class in c language
+//		String constant stored in rodata section
 
 char *str = "Hello Innominds";
 int main (void)
