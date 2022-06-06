@@ -15,6 +15,8 @@ int main (void)
             ++count;
         }
     }
+
+	//output result print
     printf("%d\n",count);
 
     return 0;
