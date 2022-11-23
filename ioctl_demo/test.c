@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <sys/ioctl.h>
-#include "pchar_ioctl.h"
+#include "ioctl.h"
 
 int main(int argc, char *argv[]) {
     int fd, ret;
