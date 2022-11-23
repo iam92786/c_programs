@@ -1,5 +1,5 @@
 
-obj-m := pchar.o
+obj-m := cdd.o
 
 all:
 	make -C /lib/modules/`uname -r`/build M=`pwd` modules
