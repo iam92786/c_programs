@@ -195,5 +195,5 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Nilesh Ghule <nilesh@sunbeaminfo.com>");
+MODULE_AUTHOR("Siddiqui Arshad hussain <hars10203@gmail.com>");
 MODULE_DESCRIPTION("Simple Pseudo Char Device Driver");
