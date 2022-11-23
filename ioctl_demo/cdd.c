@@ -4,7 +4,7 @@
 #include <linux/cdev.h>
 #include <linux/uaccess.h>
 #include <linux/kfifo.h>
-#include "pchar_ioctl.h"
+#include "ioctl.h"
 
 // psuedo char device
 #define MAXLEN 32
